@@ -1,7 +1,16 @@
-# Hugo output
-public/
-resources/
+# Hugo files to ignore
+/public/
+/resources/_gen/
 .hugo_build.lock
 
-# Editor
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
 .vscode/
+*.swp
+
+# Node modules (if any)
+node_modules/
