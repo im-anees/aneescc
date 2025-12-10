@@ -23,7 +23,7 @@ This is the fundamental flaw:
   
 ---  
   
-###### **2. THE SOLUTION (Co-Builder Version)**  
+###### **2. THE SOLUTION**  
   
 Origin is a **cognition engine** that provides:  
   
@@ -65,7 +65,7 @@ A layer that:
 * surfaces conceptual conflicts  
 * maintains structural coherence  
   
-This is the part that turns Origin from a “tool” into **infrastructure**.  
+This turns Origin from a “tool” into **infrastructure**.  
   
 ---  
   
