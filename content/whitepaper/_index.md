@@ -22,7 +22,7 @@ This fragmentation forces the mind to maintain a **parallel cognitive architectu
   
 Origin introduces:  
   
-* **Embryons** — atomic cognitive units  
+* **Embryos** — atomic cognitive units  
 * **The Cognitive Engine** — a dynamic evolution model  
 * **Reflexive Tasks** — automatic action emergence  
 * **The Cognitive Graph** — a semantic topology of the mind  
