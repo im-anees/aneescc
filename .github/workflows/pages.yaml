@@ -67,7 +67,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://anees.cc/"
+      url: https://anees.cc/
     runs-on: ubuntu-latest
     needs: build
     steps:
