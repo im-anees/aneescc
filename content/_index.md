@@ -3,7 +3,7 @@ title: ""
 toc: false
 ---
 
-###### **1. THE PROBLEM (Engineering-Clean Version)**  
+###### **1. THE PROBLEM**  
   
 Current PKM tools behave like **untyped append-only datastores**.  
 They accumulate information but do not:  
@@ -52,8 +52,6 @@ Every embryo moves through a definable flow:
 5. Converge  
 6. Convert (decision / output)  
   
-A senior engineer will immediately see this as a **state machine** with defined transitions.  
-  
 ---  
   
 ###### **C. A Semantic Constraint Engine**  
@@ -80,62 +78,3 @@ An extensible schema enabling:
 * combinable answers  
 * sharable cognitive artifacts  
 * a marketplace layer (long-term vision)  
-  
-This is your “periodic table,” and it's what will hook a systems thinker.  
-  
----  
-  
-###### ⭐ **3. THE ARCHITECTURE (Engineer-Legible Breakdown)**  
-  
-To make a cofounder take you seriously, the product must be decomposable into components.  
-  
-Here’s the clean version:  
-  
----  
-  
-###### **Layer 1 — Ontology Layer**  
-  
-* Embryo type system  
-* Allowed states  
-* Valid transitions  
-* Embeddable metadata  
-* Invariants & constraints  
-  
-*Analogy:* protobufs or a DSL for thought.  
-  
----  
-  
-###### **Layer 2 — Cognition Engine (Runtime)**  
-  
-* Lifecycle orchestration  
-* Redundancy detection  
-* Semantic similarity graph  
-* Conflict resolution logic  
-* State transition guards  
-* Suggestions  
-  
-*Analogy:* an operational semantics layer for thought.  
-  
----  
-  
-###### **Layer 3 — User Interaction Layer**  
-  
-* Text input  
-* Structured editor  
-* Visual lifecycle representations  
-* Convergence UI  
-* Semantic diffing  
-* Idea compression workflows  
-  
-*Analogy:* a REPL for cognitive entities.  
-  
----  
-  
-###### **Layer 4 — Integration & API Layer**  
-  
-* API to other tools  
-* Import from Notion, Obsidian, Roam  
-* Export to structured outputs  
-* Plugin architecture  
-  
-*Analogy:* enabling ecosystem expansion.  
