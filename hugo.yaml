@@ -18,10 +18,10 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Problem
       pageRef: /docs
       weight: 1
-    - name: Blog
+    - name: Whitepaper
       pageRef: /blog
       weight: 2
     - name: Contact ↗

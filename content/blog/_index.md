@@ -1,5 +1,5 @@
 ---
-title: Whitepaper
+title: ""
 ---
 
 ###### ⭐ **ORIGIN WHITEPAPER**  
