@@ -2,7 +2,7 @@
 title: ""
 ---
 
-###### ⭐ **ORIGIN WHITEPAPER**  
+###### **ORIGIN WHITEPAPER**  
   
 ###### **The Cognitive Operating System (CO/OS): A New Substrate for Human Thought**  
   
@@ -33,7 +33,7 @@ This whitepaper defines the category, the architecture, the ontology, and the st
   
 ---  
   
-###### 📍 **1. INTRODUCTION**  
+###### **1. INTRODUCTION**  
   
 ###### *The Missing Layer of Human Computing*  
   
@@ -69,13 +69,13 @@ Origin evolves it.
   
 This introduces a new category in computing:  
     
-###### ⭐ **Cognitive Operating System (CO/OS)**  
+###### **Cognitive Operating System (CO/OS)**  
   
 *A substrate for thought itself.*  
   
 ---  
     
-###### 📍 **2. FOUNDATIONAL PRINCIPLE**  
+###### **2. FOUNDATIONAL PRINCIPLE**  
   
 ###### **Cognition is Dynamic, Not Archival**  
   
@@ -113,7 +113,7 @@ Origin provides it.
   
 ---    
   
-###### 📍 **3. THE ORIGIN MODEL**  
+###### **3. THE ORIGIN MODEL**  
   
 ###### *The Core Architecture of CO/OS*  
   
@@ -131,13 +131,13 @@ Let’s formalize them.
   
 ---  
     
-###### ⭐ 3.1 EMBRYONS  
+###### 3.1 EMBRYOS  
   
 ###### *Atomic Units of Thought*  
   
-An **Embryon** is the smallest meaningful unit in the Origin system.  
+An **Embryo** is the smallest meaningful unit in the Origin system.  
   
-Embryons are not “notes.”  
+Embryos are not “notes.”  
 They are **dynamic cognitive entities**.  
   
 They exist in four archetypal states:  
@@ -154,14 +154,14 @@ This is a full cognitive lifecycle:
 * Principle → Developmental  
 * Developmental → Operational  
   
-Embryons are alive.  
+Embryos are alive.  
 They breathe, stabilize, branch, contract.  
   
 This is the first system where thought is treated as **living structure**.  
   
 ---  
     
-###### ⭐ 3.2 THE COGNITIVE ENGINE  
+###### 3.2 THE COGNITIVE ENGINE  
   
 ###### *Evolution Model of Thought*  
   
@@ -202,7 +202,7 @@ The system evolves your cognition *with* you.
 ---  
     
   
-###### ⭐ 3.3 THE COGNITIVE GRAPH  
+###### 3.3 THE COGNITIVE GRAPH  
   
 ###### *A Living Topology of Thought*  
   
@@ -233,7 +233,7 @@ The graph becomes a **living representation of your mind**, constantly adjusting
   
 ---  
     
-###### ⭐ 3.4 REFLEXIVE TASKS  
+###### 3.4 REFLEXIVE TASKS  
   
 ###### *Automatic Action Emergence*  
   
@@ -263,7 +263,7 @@ This is a revolution in human productivity.
   
 ---  
     
-###### ⭐ 3.5 COGNITIVE PLANES  
+###### 3.5 COGNITIVE PLANES  
   
 ###### *The Three Layers of Human Experience*  
   
@@ -297,7 +297,7 @@ Origin is the first system that captures this structure.
   
 ---  
     
-###### 📍 **4. WHY ORIGIN IS A SUBSTRATE, NOT A PRODUCT**  
+###### **4. WHY ORIGIN IS A SUBSTRATE, NOT A PRODUCT**  
   
 An operating system is defined by:  
   
@@ -329,7 +329,7 @@ This is why Origin is a generational company.
   
 ---  
     
-###### 📍 **5. THE SCIENCE BEHIND CO/OS**  
+###### **5. THE SCIENCE BEHIND CO/OS**  
   
 Origin is grounded in:  
   
@@ -350,7 +350,7 @@ It is *consistent with it.*
   
 ---  
     
-###### 📍 **6. IMPLEMENTATION**  
+###### **6. IMPLEMENTATION**  
   
 ###### *(Technical Overview)*  
   
@@ -360,7 +360,7 @@ It is *consistent with it.*
 **Data Model:** Embryon states + transitions + Planes  
 **AI Integration:** model-based structural inference  
 **Security:** strict isolation, end-to-end encryption optional  
-**UX:** 3D Embryon visual architecture  
+**UX:** Multidimenstional visual architecture  
   
 The system is built to be:  
   
@@ -373,7 +373,7 @@ The system is built to be:
 ---  
     
   
-###### 📍 **7. BUSINESS MODEL**  
+###### **7. BUSINESS MODEL**  
   
 Origin will grow through:  
   
@@ -387,13 +387,13 @@ This creates multiple revenue paths.
   
 ---  
     
-###### 📍 **8. STRATEGIC ADVANTAGE**  
+###### **8. STRATEGIC ADVANTAGE**  
   
 Origin is defensible because:  
   
 * The category is new  
 * The ontology is unique  
-* Embryons are non-copyable  
+* Embryos are non-copyable  
 * The Cognitive Graph is stateful  
 * Reflexive Tasks are unique logic  
 * The Cognitive Engine is architecture-first  
@@ -406,7 +406,7 @@ This is a paradigm.
   
 ---  
     
-###### 📍 **9. FUTURE DIRECTIONS**  
+###### **9. FUTURE DIRECTIONS**  
   
 Origin will naturally expand into:  
   
@@ -427,7 +427,7 @@ The long-term goal:
   
 ---  
     
-###### 📍 **10. CONCLUSION**  
+###### **10. CONCLUSION**  
   
 Origin introduces the world’s first Cognitive Operating System.  
   
@@ -445,3 +445,5 @@ Origin is building **the substrate of human thought**.
   
 This whitepaper defines the foundation.  
 The future emerges from here.  
+
+Revolutionalizing the PKM landscape, daring opinionation, and towards unified and interoperable cognition.
