@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Abd Al-Salam Anees
+title: A
 
 # import hextra as module
 module:
@@ -18,26 +18,12 @@ markup:
 
 menu:
   main:
-    - name: Problem
-      pageRef: /problem
+    - name: A
+      pageRef: /A
       weight: 1
-    - name: Whitepaper
-      pageRef: /whitepaper
+    - name: B
+      pageRef: /B
       weight: 2
-    - name: Search
-      weight: 4
-      params:
-        type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/im-anees"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://x.com/aneesabdalsalam"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
