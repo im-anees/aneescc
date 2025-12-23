@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: A
+title: ""
 
 # import hextra as module
 module:
@@ -16,14 +16,6 @@ markup:
   highlight:
     noClasses: false
 
-menu:
-  main:
-    - name: A
-      pageRef: /A
-      weight: 1
-    - name: B
-      pageRef: /B
-      weight: 2
 
 params:
   navbar:
